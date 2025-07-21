@@ -28,7 +28,8 @@ struct MySite: Website {
 
 try MySite().publish(
     withTheme: .mySite,
-    deployedUsing: .gitHub("imaizume/imaizume.github.io")
+    deployedUsing: .gitHub("imaizume/imaizume.github.io"),
+    additionalSteps: [.copyFile(at: "Content/CNAME")]
 )
 
 extension Theme where Site == MySite {
