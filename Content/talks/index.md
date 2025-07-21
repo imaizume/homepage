@@ -1,0 +1,18 @@
+# Talks
+
+- [プロダクトグロースと技術のベースアップを両立させるRettyのアプリ開発スタイル / Achieve Product Growth and Tech Update - iOS Snack bar #1](https://speakerdeck.com/imaizume/achieve-product-growth-and-tech-update) (2022/05/13)
+- [スクラム開発におけるアプリチームの取り組み_Retty Beer Bash#5 - connpass](https://retty.connpass.com/event/226111/) (2021/10/26)
+- [git branchを自由に操れるようになろう / Let's Play with Git branch!](http://bit.ly/2TyNHyh) (2020/01/07)
+- [スナップショットテスト実戦投入 / Practical Snapshot Testing - iOSDC Japan 2019](http://bit.ly/2pZYEwm) (2019/09/07)
+- [コーディング以外のエンジニアリング / About Engineering Without Coding - Matcing Dev Meetup #4](http://bit.ly/2DsbEO9) (2019/07/17)
+- [Firebase Remote Configの運用で知ったこと・知っておくと良いこと / Things I Learned from Operation of Firebase Remote Config - potatotips #62](http://bit.ly/2Ys5UNv) (2019/06/18)
+- [iOSアプリのテストを書きたいのに書けないあなたへ / How You Should Start to Write Your First Unit Test for iOS - iOS Test Night #10](http://bit.ly/2QovAat) (2019/04/16)
+- [循環的複雑度を上げないためのSwiftプログラミングTips / Tips of Swift Programming to Reduce Code Complexity - Otemachi.swift #3](http://bit.ly/2VYbtWL) (2019/04/10)
+- [シングルトンではじめる状態管理と依存注入 / A way to control state using singleton pattern - ROPPONGI.swift #7](http://bit.ly/2K5rfrA) (2019/03/07)
+- [『「改善Dayを作ろう!」って言ってたけど気づいたらなくなったよね…』を繰り返さないために - Diverse.tech #1](http://bit.ly/2SKtZ2A) (2018/11/22)
+- [(再演)きれいなcommit, pull requestを知りたい/作りたい方のためのgit勉強会 - サポーターズCoLab](http://bit.ly/2SD90uT) (2018/11/05)
+- [チュートリアル実装の『そこどうしてる_』 Poiboyではこうしてる! - マッチングの裏側Night #1](http://bit.ly/2MUGxyK) (2018/09/28)
+- [(再演) detached HEADを理解して脱Git初心者を目指す方のためのGit入門勉強会 - サポーターズCoLab](http://bit.ly/2DpZwga) (2018/09/14)
+- [(ほぼ)標準ライブラリだけでスロットゲームを実装した話 - ROPPONGI.swift #5](http://bit.ly/2TEqI1H) (2018/08/24)
+- [必要性の力を借りて良い学習をする - Unitus LT会](http://bit.ly/2Do6mmt) (2018/02/24)
+- [新規サービスのアプリ開発で経験したリアルな出来事 - mixi GROUP Tech Meet ！](http://bit.ly/2UN7NlB) (2018/02/20)
