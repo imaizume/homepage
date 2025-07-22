@@ -1,5 +1,7 @@
 # Posts
 
+- [Rettyが毎週アプリのリリースをする理由と運用を継続するためのポイント](https://engineer.retty.me/entry/retty-app-weekly-release-reason) (2025/03/14)
+- [Combine製ロジックへのSwiftTesting導入とBDDからの移行](https://engineer.retty.me/entry/2024/12/08/100000) (2024/12/08)
 - [アプリ開発メインの私が業務で擦れるほど使い倒しているGit/GitHub CLIの便利コマンド4つ - Retty Tech Blog](https://engineer.retty.me/entry/2024/01/23/120000) (2024/01/23)
 - [日本全国で自社のサービスをドッグフーディングしてみて - Retty Tech Blog](https://engineer.retty.me/entry/2023/12/14/173000) (2023/12/14)
 - [2年間の運用実績から学んだ! Retty流Slack Workflow活用術と使い方の勘所! - Retty Tech Blog](https://engineer.retty.me/entry/2022/12/01/090000) (2022/12/01)
