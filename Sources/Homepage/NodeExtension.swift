@@ -32,3 +32,13 @@ extension Node where Context: HTMLContext {
         return .class(classStrings.joined(separator: " "))
     }
 }
+
+extension Attribute where Context: HTMLContext {
+    static func `class`(_ classType: StaticClass) -> Attribute {
+        .class(classType.rawValue)
+    }
+
+    static func `class`(_ classType: DynamicClass) -> Attribute {
+        .class(classType.rawValue)
+    }
+}

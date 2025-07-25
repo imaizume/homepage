@@ -61,7 +61,7 @@ extension Theme where Site == MySite {
             return baseLayout(for: index.title, content: [
                 .div(
                     .class(globalWidth),
-                    .img(.src("./images/logo.png"), .alt("imaizume icon"), .class("uk-align-center")),
+                    .img(.src("./images/logo.png"), .alt("imaizume icon"), .class(S.ukAlignCenter)),
                     .h1("imaizume", .class(.ukText(.center))),
                     .p("Last Update: \(todayString)", .class(.ukText(.center))),
                     .div(
