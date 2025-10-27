@@ -1,5 +1,6 @@
 # Talks
 
+- [VisionFrameworkで実現する - プライバシーに配慮した「顔ぼかし」機能](https://speakerdeck.com/imaizume/face-blurring-with-vision-framework) (2022/05/13)
 - [プロダクトグロースと技術のベースアップを両立させるRettyのアプリ開発スタイル / Achieve Product Growth and Tech Update - iOS Snack bar #1](https://speakerdeck.com/imaizume/achieve-product-growth-and-tech-update) (2022/05/13)
 - [スクラム開発におけるアプリチームの取り組み_Retty Beer Bash#5 - connpass](https://retty.connpass.com/event/226111/) (2021/10/26)
 - [git branchを自由に操れるようになろう / Let's Play with Git branch!](http://bit.ly/2TyNHyh) (2020/01/07)
