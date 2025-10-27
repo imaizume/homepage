@@ -181,13 +181,39 @@ extension Theme where Site == MySite {
                     .class(D.ukPadding(.small)),
                     .href(url),
                     .img(
-                        .attribute(named: "uk-svg", value: nil),
+                        .attribute(AttributeValueType.ukSVG),
                         .src("./images/sns/\(iconName)"),
                         .width(iconSize),
                         .height(iconSize)
                     )
                 )
             )
+        }
+    }
+}
+
+extension Attribute {
+    static func attribute(_ type: AttributeValueType) -> Self {
+        switch type {
+        case .ukSVG:
+                .init(name: type.rawValue, value: nil)
+        }
+    }
+}
+
+enum AttributeValueType: RawRepresentable {
+    init?(rawValue _: String) {
+        return nil
+    }
+
+    typealias RawValue = String
+
+    case ukSVG
+
+    var rawValue: String {
+        switch self {
+        case .ukSVG:
+            "uk-svg"
         }
     }
 }
