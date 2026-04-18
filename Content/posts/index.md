@@ -1,5 +1,6 @@
 # Posts
 
+- [コードで書かれた運用もSlack WFとDevinで実質自動化! 小さなAIワークフローでの業務効率改善事例](https://engineer.retty.me/entry/home-banner-automation) (2025/12/10)
 - [iOSDC Japan 2025 登壇報告と当日話せなかった裏話](https://engineer.retty.me/entry/iosdc-2025) (2025/10/07)
 - [Rettyが毎週アプリのリリースをする理由と運用を継続するためのポイント](https://engineer.retty.me/entry/retty-app-weekly-release-reason) (2025/03/14)
 - [Combine製ロジックへのSwiftTesting導入とBDDからの移行](https://engineer.retty.me/entry/2024/12/08/100000) (2024/12/08)
